@@ -1,4 +1,4 @@
-state("30XX", "v0.24.0")
+state("30XX", "v0.24.1")
 {
     int levelNumber: 0x548C1C;
     int endscreenNumber: 0x4678980;
