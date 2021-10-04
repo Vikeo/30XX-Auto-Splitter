@@ -1,9 +1,9 @@
-state("30XX", "v0.24.1")
+state("30XX", "v0.25.2")
 {
-    int levelNumber: 0x548C1C;
-    int endscreenNumber: 0x4678980;
-    int healthNumber: 0x489279C;
-    double timerNumber: 0x64B598;
+    int levelNumber: 0x54CC1C;
+    int endscreenNumber: 0x467D64C;
+    int healthNumber: 0x489745C;
+    double timerNumber: 0x64F688;
 }
 
 start
